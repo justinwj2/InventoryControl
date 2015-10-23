@@ -1,0 +1,26 @@
+
+/* 
+    Created on : Jul 20, 2015, 4:56:25 PM
+    Author     : Justin
+*/
+.hbox{
+    -fx-background-color: #525960;
+    -fx-alignment: top-center;
+}
+.textHeader{
+    -fx-font: 40px Arial;
+    -fx-fill: white;
+    -fx-font-weight: bold;
+}
+.vbox{
+    -fx-background-color: #901a2c;
+    -fx-border-color: #000000;
+    -fx-border-style: solid;
+}
+.hboxBottom{
+    
+    -fx-alignment: top-center;
+}
+.vboxTable{
+    -fx-alignment: top-center;
+}
